@@ -5,7 +5,7 @@
         64
     ],
     "use_quantum": true,
-    "api_key": "Bc7evhpIEt13WIcnBKYrhFuHU-i9LXKn4lsgc5JklpII",
+    "api_key": "API-KEY",
     "quantum_samples": 100,
     "n_qubits": 6,
     "quantum_weight": 0.3,
