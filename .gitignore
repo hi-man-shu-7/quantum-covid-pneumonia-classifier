@@ -1,0 +1,47 @@
+# Dataset directories - DO NOT UPLOAD
+covid_pneumonia_organized/
+dataset/
+*.jpg
+*.jpeg
+*.png
+*.dcm
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Virtual environment
+myenv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# Results (optional - comment out if you want to upload results)
+qsvm_results/
+*.pkl
+*.json
+
+# API keys (IMPORTANT - never upload)
+*api_key*
+config_secret.py
+
+# OS files
+.DS_Store
+Thumbs.db
