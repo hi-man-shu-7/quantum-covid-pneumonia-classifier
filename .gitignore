@@ -34,9 +34,9 @@ env/
 *.ipynb
 
 # Results (optional - comment out if you want to upload results)
-qsvm_results/
-*.pkl
-*.json
+#qsvm_results/
+#*.pkl
+#*.json
 
 # API keys (IMPORTANT - never upload)
 *api_key*

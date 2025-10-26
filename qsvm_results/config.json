@@ -1,0 +1,15 @@
+{
+    "data_path": "C:\\Users\\Neeraj\\Desktop\\qml1\\covid_pneumonia_organized",
+    "img_size": [
+        64,
+        64
+    ],
+    "use_quantum": true,
+    "api_key": "Bc7evhpIEt13WIcnBKYrhFuHU-i9LXKn4lsgc5JklpII",
+    "quantum_samples": 100,
+    "n_qubits": 6,
+    "quantum_weight": 0.3,
+    "n_folds": 5,
+    "use_augmentation": true,
+    "output_dir": "qsvm_results"
+}
