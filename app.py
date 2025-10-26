@@ -73,7 +73,7 @@ CONFIG = {
     
     # Quantum computing configuration
     'use_quantum': True,  # Set to True to use IBM Quantum hardware
-    'api_key': 'Bc7evhpIEt13WIcnBKYrhFuHU-i9LXKn4lsgc5JklpII',  # IBM Quantum API key
+    'api_key': 'API-KEY',  # IBM Quantum API key
     'quantum_samples': 100,  # Number of samples to process on quantum hardware
     'n_qubits': 6,  # Number of qubits for quantum circuits
     'quantum_weight': 0.3,  # Weight for quantum features (0.3 = 30% quantum, 70% classical)
